@@ -1,15 +1,19 @@
 <br>
 
-#### 🐞 앞으로 곧게 성장할 신입 개발자 송란이입니다.
------------------
-
-##### ✔ 주체적인 태도로 머무르지 않고 발전하는 삶을 지향합니다.
-##### ✔ 소통과 협력을 사랑하며 다양한 코드를 접해보기 위해 노력합니다.
-##### ✔ 더 효율적이고 클린한 코드를 위해 부지런히 탐색합니다.
+### 🐞 앞으로 곧게 성장할 신입 개발자 송란이입니다.
 <br>
 
-#### 📚 Study
-+ ##### 배우고 공부 중인 기술들 입니다.
+- 주체적인 태도로 머무르지 않고 발전하는 삶을 지향합니다.
+- 소통과 협력을 사랑하며 다양한 코드를 접해보기 위해 노력합니다.
+- 더 효율적이고 클린한 코드를 위해 부지런히 탐색합니다.
+<br>
+
+---
+
+<br>
+
+### 📚 Study
++ 배우고 공부 중인 기술들 입니다.
 
 <img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> <img alt="Css" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/> <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScriipt-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=black"/> <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black"/> 
 <br>
