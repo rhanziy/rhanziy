@@ -1,6 +1,6 @@
 <br>
 
-### 안녕하세요 고민하는 개발자 송란이입니다.
+###  💻  Frontend developer(React, React-native)
 <br>
 
 - 주체적인 태도로 머무르지 않고 발전하는 삶을 지향합니다.
@@ -10,8 +10,7 @@
 
 
 
-### 📚 Study
-+ 배우고 공부 중인 기술들 입니다.
+### ⚙️  Skill & Tools
 
 <img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> <img alt="Css" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/> <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScriipt-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=black"/> <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" /> 
 <br>
@@ -19,6 +18,12 @@
  <img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" />  <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=black"/> 
  <br>
 <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/> <img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=black"/> <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
+
+<br>
+
+ ### 🗂️ Blog
+ + https://rhanziy.tistory.com/
+
 
 <br>
 <br>
